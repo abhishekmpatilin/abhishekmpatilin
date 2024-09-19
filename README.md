@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek 👨‍💻
 
-[📧](abhishekp4698@gmail.com)
+[📧](mailto:abhishekp4698@gmail.com)
 
 > a FrontEnd Engineer (Full Stack)
 
