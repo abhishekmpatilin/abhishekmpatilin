@@ -1,10 +1,8 @@
-### Hi there, I'm Abhishek 👨‍💻
+👋 Hi there! I'm Abhishek Patil 
 
-[🖥️ Connect..](https://abhishekmpatilin.web.app/)
+  A passionate Frontend Developer and UI/UX Designer with 2+ years of experience creating stunning web interfaces and animations.
+  I specialize in building responsive, user-centered applications using React, TailwindCSS, and jQuery, with a focus on intuitive design and smooth animations.
 
-> a FrontEnd Engineer (Full Stack)
-
-#### 📍 Currently base at: Pune, Maharashtra India
 
 🎨 What I love:
 - Crafting visually appealing websites with cool animations
@@ -14,8 +12,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
